@@ -1,0 +1,7 @@
+Algoritmo para compartir información confiable:
+1. Buscar la información: Localizar el contenido o noticia en la web.
+2. Revisar la fuente: Identificar si el autor o el sitio web tiene autoridad y trayectoria.
+3. Confirmar la noticia: Contrastar la información con al menos dos fuentes adicionales confiables.
+4. Evaluar la fecha y el contexto: Verificar que la información sea actual y no esté sacada de contexto.
+5. Analizar la objetividad: Detectar si el texto tiene un sesgo extremo o lenguaje sensacionalista.
+6. Compartir con responsabilidad: Una vez validada, difundir citando la fuente original.
